@@ -6,6 +6,13 @@ This project goal is to recreate the classic game of Hangman that the user can p
 
 Word list from: https://www.randomlists.com/data/words.json
 
+## How to use
+1. Download **hangman.y** & **words.py**
+2. Run `hangman.py`
+3. Play!
+
+You can play as many rounds as you like and the game keeps track of the round number and the points you earned
+
 ## Challenges faced
 - Usage of python lists
 - Learning pytest
